@@ -11,7 +11,7 @@ function Profile(props) {
       alt="Katherine Johnson"
       className='profile__image'
     />
-    <button onClick={sendMessage} style={{ backgroundColor:"yellow" }}>Send a message</button>
+    <button onClick={sendMessage} style={{ backgroundColor:"lightBlue" }}>Send a message</button>
     </div>
   );
 }
