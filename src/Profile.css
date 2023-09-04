@@ -1,0 +1,9 @@
+.profile{
+    color:blue;
+    }
+    .profile__name{
+      text-transform: uppercase
+    }
+    .profile__img{
+      max-width:100%
+    }
